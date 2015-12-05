@@ -28,7 +28,7 @@
 #define __TIMER_INTERFACE_H_
 
 // Add the platform specific timer includes to define the Timer struct
-#include "timer_linux.h"
+#include "timer_platform.h"
 
 /**
  * @brief Timer Type
